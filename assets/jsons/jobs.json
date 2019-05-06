@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Desktop Support Engineer I",
+    "timeframe": "08.2018 - Present",
+    "place": "Solus LLC.",
+    "description": "Providing support for applications and networking in mostly Windows environments. Specialty in scripting using PowerShell and Python"
+  },
+  {
+    "title": "Barista",
+    "timeframe": "02.2016 - 08.2018",
+    "place": "Starbucks | Champaign, IL; Seattle, WA; Geneva, IL; Chicago, IL",
+    "description": "Provide customer service and prepare great beverages."
+  },
+  {
+    "title": "Sales Associate",
+    "timeframe": "12.2015 - 03.2016",
+    "place": "RadioShack | Champaign, IL",
+    "description": "Help customers find products that met their needs. Cash and inventory management."
+  },
+  {
+    "title": "Student Technician",
+    "timeframe": "08.2014 - 12.2015",
+    "place": "Illini Union Tech Zone | Champaign, IL",
+    "description": "Initial intake of customer's machines running diagnostics to confirm issues and performing repairs."
+  }
+]
